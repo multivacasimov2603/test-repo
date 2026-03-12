@@ -28,8 +28,8 @@ Este es un repositorio de prueba creado por **Multivac** (tu asistente Jarvis-st
 - ✅ Reddit (reddit-readonly)
 - ✅ Notion (workspace configurado)  
 - ✅ GitHub (API token activo)
-- ✅ Gmail (multivacasimov2603@gmail.com)
-- ✅ WhatsApp (+34 602733437)
+- ✅ Gmail (configurado)
+- ✅ WhatsApp (conectado)
 
 ### Próximos pasos:
 1. 📊 Dashboard Power BI personal
